@@ -1,0 +1,22 @@
+.odds,
+.first,
+.third,
+.fifth {
+    background-color: lightcoral;
+    font-family: "Verdana, DejaVu Sans", sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#id2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
